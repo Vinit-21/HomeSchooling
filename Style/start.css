@@ -1,0 +1,17 @@
+li a:visited{text-decoration:none;color:white;}
+			body{font-family:Trebuchet MS;}
+			.ask{font-size:50px;background-color:rgba(255,255,255,0.5);color:lightblue;padding:90px;padding-bottom:35px;}
+			hr{width:75%;}.wall{width:75%;}
+			#section10{background-color:lightblue;height:100%;}
+			#section20{background-color: #1E88E5;height:100%;}
+			#section11,#section12,#section13{background-color:#1E88E5;color:white;display:inline-block;width:20%;padding:30px;margin:25px;}
+			button{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);}
+			.glyphicon{font-size:50px;}
+			.msgarea{
+				width:400px;
+				margin-left:120px;
+				font-size:21px;
+				margin-top:40%;
+				color:white;
+				text-align:center;
+			}
